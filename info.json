@@ -1,0 +1,9 @@
+{
+  "title": "Makefile",
+  "name": "makefile",
+  "ps": "Run Makefile targets from Files, including Docker Compose targets.",
+  "versions": "1.1",
+  "checks": "/www/server/panel/plugin/makefile",
+  "author": "Phalcosoft",
+  "home": ""
+}
